@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8140ca6c587076d4d911447f3a6c4474
+timeCreated: 1515398530
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SRI SURY WONGSE
+  fontNames:
+  - SRI SURY WONGSE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

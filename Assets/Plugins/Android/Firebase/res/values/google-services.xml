@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://thailand-tower-defence.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">792885884652</string>
+  <string name="google_storage_bucket" translatable="false">thailand-tower-defence.appspot.com</string>
+  <string name="project_id" translatable="false">thailand-tower-defence</string>
+  <string name="google_api_key" translatable="false">AIzaSyBcBuMDF2U_ZZZXPzsbISEOAPLvpWqBI4o</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcBuMDF2U_ZZZXPzsbISEOAPLvpWqBI4o</string>
+  <string name="google_app_id" translatable="false">1:792885884652:android:c5772c29c77cc5b1</string>
+  <string name="default_web_client_id" translatable="false">792885884652-pdq4bpbe032nrqgfh0aoq6g7of0setm5.apps.googleusercontent.com</string>
+</resources>
